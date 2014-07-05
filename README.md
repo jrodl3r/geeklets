@@ -1,5 +1,2 @@
 # geeklets
-
-## Setup & Configuration
-
-### (Coming Soon)
+an archive of the desktop geeklets used on my macs.
