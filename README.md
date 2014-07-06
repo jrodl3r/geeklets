@@ -1,2 +1,2 @@
 # geeklets
-geeklets that I use on my mac desktop.
+geeklets (for GeekTool) that I use on my mac desktop.
