@@ -1,2 +1,2 @@
 # geeklets
-an archive of the desktop geeklets used on my macs.
+geeklets that I use on my mac desktop.
